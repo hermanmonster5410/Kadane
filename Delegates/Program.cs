@@ -10,6 +10,7 @@ namespace Delegates
     public delegate string FirstDelegate(int x);
 
 //    Func<int, string> = 
+//    Action<>
 
     class Program
     {
