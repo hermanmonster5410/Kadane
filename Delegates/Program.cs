@@ -65,7 +65,6 @@ namespace Delegates
                 Console.WriteLine("Joy  " + y);
 
             Console.ReadLine();
-
         }
 
         static string StaticMethod(int i)
